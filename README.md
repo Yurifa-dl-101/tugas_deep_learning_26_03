@@ -11,4 +11,4 @@ basic deep learning classifier
 
 
 # Infrastructure LSTM for Classification
-![infrastructure](https://github.com/Yurifa-dl-101/ugas_deep_learning_26_03/raw/master/model.png)
+![infrastructure](https://github.com/Yurifa-dl-101/tugas_deep_learning_26_03/raw/master/model.png)
